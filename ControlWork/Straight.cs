@@ -54,7 +54,7 @@ namespace ControlWork
 
         public void check()
         {
-            if (First_X == First_Y || Second_X == Second_Y)
+            if ((First_X == 0 && First_Y == 0)|| (Second_X == 0 && Second_Y == 0))
             {
                 throw new  Exception("Длина одной из прямых не задана.");
             }
