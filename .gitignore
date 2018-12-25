@@ -1,0 +1,16 @@
+
+\.idea/
+
+ControlWork\.sln\.DotSettings\.user
+
+ControlWork/bin/Debug/
+
+ControlWork/obj/Debug/
+
+ControlWork/Properties/
+
+Test_ControlWork/bin/
+
+Test_ControlWork/obj/
+
+Test_ControlWork/Properties/
